@@ -24,7 +24,7 @@ The full tutorial is available on following links:
 
 On Medium:
 
-https://azad-wolf.medium.com/
+https://azad-wolf.medium.com/matters-of-attention-what-is-attention-and-how-to-compute-attention-in-a-transformer-model-4cbbd3250307
 
 On Substack:
 
