@@ -28,7 +28,8 @@ https://azad-wolf.medium.com/
 
 On Substack:
 
-https://azadwolf.substack.com/
+https://azadwolf.substack.com/p/matters-of-attention-what-is-attention
+
 
 
 
@@ -36,7 +37,8 @@ https://azadwolf.substack.com/
 ## References 
 
 
-[1] L. Itti , C. Koch, “Computational modelling of visual attention”, Nature Reviews Neuroscience volume 2, pages 194–203, 2001
+[1] L. Itti , C. Koch, “Computational modelling of visual attention”, Nature Reviews Neuroscience volume 2, pages 194–203, 2001   
+
 [2] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, “Attention Is All You Need”, arXiv:1706.03762 [cs.CL], 2017
 
 
