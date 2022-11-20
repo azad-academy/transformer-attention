@@ -1,4 +1,4 @@
-# Attention Matters: What is Attention and How to Compute Attention in a Transformer Model
+# Matters of Attention: What is Attention and How to Compute Attention in a Transformer Model
 ## A comprehensive and easy guide to Attention in Transformer Models (with example code)
 
 ![title cover image](cover.png)
